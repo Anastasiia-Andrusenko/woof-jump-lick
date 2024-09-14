@@ -2,10 +2,7 @@
 	height: 40px;
 	border: 2px solid black;
 	border-radius: 30px;
-	box-shadow: 1px 3px 0px 0px rgba(0, 0, 0, 1);
-	-webkit-box-shadow: 1px 3px 0px 0px rgba(0, 0, 0, 1);
-	-moz-box-shadow: 1px 3px 0px 0px rgba(0, 0, 0, 1);
-	transition: transform 300ms cubic-bezier(0.19, 1, 0.22, 1);
+	overflow: hidden;
 
 	@media screen and (min-width: 521px) {
 		/* padding: 20px; */
@@ -18,6 +15,10 @@
 
 .button:hover {
 	transform: scale(1.06);
+	box-shadow: 1px 3px 0px 0px rgba(0, 0, 0, 1);
+	-webkit-box-shadow: 1px 3px 0px 0px rgba(0, 0, 0, 1);
+	-moz-box-shadow: 1px 3px 0px 0px rgba(0, 0, 0, 1);
+	transition: transform 300ms cubic-bezier(0.19, 1, 0.22, 1);
 }
 
 .navButton {
@@ -28,4 +29,11 @@
 	color: black;
 	font-weight: 600;
 	font-size: 18px;
+}
+
+.button .active {
+	/* border: 2px solid black; */
+	background-color: var(--background);
+	color: var(--foreground);
+	box-shadow: none;
 }

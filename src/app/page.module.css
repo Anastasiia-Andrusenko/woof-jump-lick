@@ -65,22 +65,22 @@
 
 .word1 {
 	animation: color-animation 2500ms linear infinite;
-	--color-1: #ff5900;
-	--color-2: #00b3ff;
-	--color-3: #ff58c4;
+	--color-1: var(--red);
+	--color-2: var(--blue);
+	--color-3: var(--pink);
 }
 .word2 {
 	animation: color-animation 2500ms linear infinite;
-	--color-1: #ffae00;
-	--color-2: #00ffe1;
-	--color-3: #2949d7;
+	--color-1: var(--green);
+	--color-2: var(--salmon);
+	--color-3: var(--purple);
 }
 
 .word3 {
 	animation: color-animation 2500ms linear infinite;
-	--color-1: #00ffe1;
-	--color-2: #ff58c4;
-	--color-3: #00b3ff;
+	--color-1: var(--salmon);
+	--color-2: var(--pink);
+	--color-3: var(--blue);
 }
 
 @keyframes color-animation {

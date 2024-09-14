@@ -20,7 +20,7 @@ const Header = () => {
 					backgroundColor="	#EE82EE	"
 				/>
 				<NavButton text="Contacts" href="#contacts" backgroundColor="#FFD700" />
-				<NavButton text="Dog News" href="/dog-news" backgroundColor="#9ACD32" />
+				<NavButton text="Dog News" href="/dog-news" backgroundColor="#a6dd37" />
 			</nav>
 		</header>
 	);

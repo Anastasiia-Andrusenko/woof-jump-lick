@@ -3,6 +3,13 @@
 :root {
 	--background: #fff3db;
 	--foreground: #171717;
+	--salmon: #ffa07a;
+	--blue: #87cefa;
+	--pink: #ee82ee;
+	--yellow: #ffd700;
+	--green: #a6dd37;
+	--purple: #a67dff;
+	--red: #ff321b;
 }
 
 /* @media (prefers-color-scheme: dark) {
