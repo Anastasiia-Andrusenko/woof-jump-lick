@@ -3,7 +3,6 @@ import css from './Button.module.css';
 interface ButtonProps {
 	text: string;
 	color: string;
-	style?: any;
 }
 
 const Button = ({ text, color }: ButtonProps) => {

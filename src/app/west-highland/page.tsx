@@ -42,7 +42,7 @@ export default function West() {
 								</p>
 							</li>
 							<li className={css.fact_item}>
-								<h3 className={css.fact_title}>The "Westie Smile"</h3>
+								<h3 className={css.fact_title}>The &quot;Westie Smile&quot;</h3>
 								<p className={css.fact_text}>
 									West Highland Terriers are famous for their happy expressions.
 									Their cheerful demeanor and bright, alert eyes often give the

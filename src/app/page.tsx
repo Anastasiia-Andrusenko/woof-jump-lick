@@ -62,10 +62,10 @@ export default function Home() {
 										Pedigree & Purebred Status
 									</h3>
 									<p className={css.advantages_text}>
-										s A dog's pedigree provides detailed information about its
-										lineage, confirming its purebred status. This document is
-										essential for buyers interested in acquiring purebred dogs.
-										Breeders typically offer proof that there is no
+										s A dog&apos;s pedigree provides detailed information about
+										its lineage, confirming its purebred status. This document
+										is essential for buyers interested in acquiring purebred
+										dogs. Breeders typically offer proof that there is no
 										crossbreeding with other dog breeds, which is important for
 										breed enthusiasts.
 									</p>

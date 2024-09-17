@@ -25,18 +25,19 @@ export default function Jack() {
 								<h3 className={css.fact_title}>Energizer Bunnies</h3>
 								<p className={css.fact_text}>
 									Jack Russell Terriers are known for their boundless energy and
-									enthusiasm. They are often described as having "an endless
-									supply of energy" and require a lot of physical and mental
-									stimulation to stay happy.
+									enthusiasm. They are often described as having &quot;an
+									endless supply of energy&quot; and require a lot of physical
+									and mental stimulation to stay happy.
 								</p>
 							</li>
 							<li className={css.fact_item}>
 								<h3 className={css.fact_title}>Movie Stars</h3>
 								<p className={css.fact_text}>
 									Jack Russell Terriers have made their mark in Hollywood! One
-									of the most famous Jack Russells was "Uggie," who starred in
-									the Academy Award-winning film "The Artist" and even won the
-									Palm Dog Award at the Cannes Film Festival.
+									of the most famous Jack Russells was &quot;Uggie,&quot; who
+									starred in the Academy Award-winning film &quot;The
+									Artist&quoand even won the Palm Dog Award at the Cannes Film
+									Festival.
 								</p>
 							</li>
 							<li className={css.fact_item}>

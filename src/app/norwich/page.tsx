@@ -33,8 +33,8 @@ export default function Norwich() {
 								<h3 className={css.fact_title}>Tail Tales</h3>
 								<p className={css.fact_text}>
 									Unlike many terriers, Norwich Terriers have a distinctive and
-									distinctive "flag-like" tail, which is often carried high and
-									gives them a unique and alert appearance.
+									distinctive &quot;flag-like&quot; tail, which is often carried
+									high and gives them a unique and alert appearance.
 								</p>
 							</li>
 							<li className={css.fact_item}>
@@ -42,8 +42,8 @@ export default function Norwich() {
 								<p className={css.fact_text}>
 									Norwich Terriers have made appearances in various films and
 									television shows. They were featured in the popular TV show
-									"Doctor Who" and even had a role in the classic movie "The
-									Adventures of Tintin."
+									&quot;Doctor Who&quot; and even had a role in the classic
+									movie &quot;The Adventures of Tintin.&quot;
 								</p>
 							</li>
 							<li className={css.fact_item}>
@@ -51,8 +51,8 @@ export default function Norwich() {
 								<p className={css.fact_text}>
 									The Norwich Terrier has a historical link to British royalty.
 									Queen Elizabeth II was known to have a Norwich Terrier named
-									"Dookie," who was a beloved companion during her younger
-									years.
+									&quot;Dookie,&quot; who was a beloved companion during her
+									younger years.
 								</p>
 							</li>
 							<li className={css.fact_item}>
