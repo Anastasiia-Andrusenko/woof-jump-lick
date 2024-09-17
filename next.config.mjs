@@ -2,10 +2,11 @@
 const nextConfig = {
 	output: 'export',
 	basePath: '/woof-jump-lick',
+	assetPrefix: '/woof-jump-lick/',
+	trailingSlash: true,
 	images: {
 		unoptimized: true,
 	},
-	trailingSlash: true,
 };
 
 export default nextConfig;
